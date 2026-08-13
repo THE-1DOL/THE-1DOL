@@ -6,6 +6,10 @@
 <h6 align="center">
   
 ![](https://files.catbox.moe/fiwr4a.jpeg)
+
+The Weeknd ˚ʚ♡ɞ˚ The Noise
+
+<h6 align=“center”>
 <!--
 **THE-1DOL/THE-1DOL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
