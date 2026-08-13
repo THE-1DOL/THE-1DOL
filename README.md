@@ -1,11 +1,10 @@
 <h6 align="center">
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31brj477k523k7d763qcbjlsatyi&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=ffffff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-![](https://files.catbox.moe/bg20n7.png)
 
 <h6 align="center">
   
-  ![](https://files.catbox.moe/fiwr4a.jpeg)
+![](https://files.catbox.moe/fiwr4a.jpeg)
 <!--
 **THE-1DOL/THE-1DOL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
