@@ -1,4 +1,4 @@
-## Hi there 👋
+![](https://files.catbox.moe/fiwr4a.jpeg)
 
 <!--
 **THE-1DOL/THE-1DOL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
