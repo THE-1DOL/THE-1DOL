@@ -1,17 +1,18 @@
-<p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31brj477k523k7d763qcbjlsatyi&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false&mode=dark">
-  </a>
-</p>
-<h6 align="center">
-  
-![](https://files.catbox.moe/fiwr4a.jpeg)
+
+<h6 align=“center”>
+
+  <h6 align="center">
 
 The Weeknd ⠀キッスランド ⠀The Noise
 
-[](https://files.catbox.moe/7lvs2o.mov)
 
-<h6 align=“center”>
+![](https://files.catbox.moe/fiwr4a.jpeg)
+
+[新BOOK](https://pbalim.atabook.org)
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31brj477k523k7d763qcbjlsatyi&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=ff8648&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+<h6 align="center">
 <!--
 **THE-1DOL/THE-1DOL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
